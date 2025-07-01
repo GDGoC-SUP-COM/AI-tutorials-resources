@@ -1,1 +1,3 @@
-# will be soon added stay tuned 
+# PyTorch
+
+PyTorch tutorials and resources coming soon! 
